@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">I'm a7as21</h1>
 <h3 align="center">A passionate software engineer who got his start many years ago</h3>
 
