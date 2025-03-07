@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<h1 align="center">I'm a7as21</h1>
+<h3 align="center">A passionate software engineer who got his start many years ago</h3>
+
 <!--
 **a7as21/a7as21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
