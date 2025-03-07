@@ -6,5 +6,5 @@
 
 
 #### Languages I'm proficient with:
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,git,matlab,md)](https://skillicons.dev)
+![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,git,matlab,md)
 
