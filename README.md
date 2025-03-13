@@ -1,10 +1,15 @@
-<h1 align="center">I'm a7as21</h1>
+<h1 align="center">Hello</h1>
+I'm Ahmed, a student and future software developer.
 
-## ` Who Am I`
+### Languages:
+![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,git,md)
 
-- Student of Computer Science at [AUS](https://www.aus.edu)
+<!--
+### Frameworks
+![My Frameworks](https://skillicons.dev/icons?i=bootstrap)
 
 
-### Languages I'm proficient with:
-![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,git,matlab,md)
+### To Learn
+![To Learn](https://skillicons.dev/icons?i=go,lua,mysql,nodejs,svg,tailwind,zig)
 
+-->
